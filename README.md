@@ -23,7 +23,7 @@
 
 ---
 
-## #Data_Cleaning
+## Data_Cleaning
 - Lookup Table
 ### To create a word embedding, you first need to transform the words to ids. 
 - Dictionary to go from the words to an id, we'll call vocab_to_int
